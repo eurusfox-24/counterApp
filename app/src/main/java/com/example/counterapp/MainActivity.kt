@@ -43,6 +43,8 @@ class MainActivity : ComponentActivity() {
                         horizontalAlignment = Alignment.CenterHorizontally
                     ) {
                         Counter()
+                        Counter()
+                        Counter() 
                     }
                 }
             }
